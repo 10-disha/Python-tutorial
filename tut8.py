@@ -3,4 +3,5 @@
 
 
 mystr = "harry is a good boy"
+print(len(mystr))
 print(mystr[0:5])
